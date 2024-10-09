@@ -1,6 +1,5 @@
 <div>
   <div>
-    <img style="display: flex" align="right" alt="GIF" width="350" src="https://github.com/Gabriel-Liondas/Gabriel-Liondas/blob/main/assets/oshawott_gif.gif"/>
     <h2>About me 🪐</h2>
       <h3>Learning 🤔</h3>
        <p>- Java ☕</p>
