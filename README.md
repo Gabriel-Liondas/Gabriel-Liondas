@@ -1,14 +1,13 @@
 <div>
   <div>
     <h2>About me 🪐</h2>
-      <h3>Learning 🤔</h3>
+      <h3>Skills</h3>
        <p>- Java ☕</p>
        <p>- Machine learning algorithms 🤖</p>
+        <p>- Python 🐍</p>
+        <p>- React ❄</p>
+        <p>- HTML, CSS, Javascript </p>
       </br>
-      <h3>Hobbies 🐱‍👓</h3>
-        <p>- Play Guitar 🎸</p>
-        <p>- Draw 🎨</p>
-        <p>- Play Games 🎮</p></br>
   </br>
   </div>
   
